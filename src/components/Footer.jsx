@@ -106,7 +106,7 @@ const Footer = () => {
       >
         <div className="container mx-auto flex flex-col items-center gap-y-6 lg:flex-row lg:justify-between lg:gap-y-0">
           {/* copy text */}
-          <div>&copy; 2022 CRAPPO. All rights reserved.</div>
+          <div>&copy; 2023 MT Solution. All rights reserved.</div>
           {/* social icons */}
           <div className="flex text-2xl gap-x-8">
             <a className="hover:text-blue transition" href="##">
